@@ -4,7 +4,6 @@ const path = require('path');
 
 //build file path
 const filepath = path.join(__dirname, 'tasks.json');
-console.log("hello wordl");
 console.log(filepath);
 
 //Load tasks from tasks.json
